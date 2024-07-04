@@ -45,5 +45,6 @@ public class ReusableMethods {
         // save the screenshot to the path given
         FileUtils.copyFile(source, finalDestination);
         return target;
+
     }
 }
